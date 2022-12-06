@@ -79,6 +79,8 @@ this should log: true
 var attendees = 9;
 var meals = 8;
 console.log(attendees !== meals);
+Are the number of attendees not equal to the number of meals ?
+this should log: true
 // YOU DO: Explain.
 
 
