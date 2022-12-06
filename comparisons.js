@@ -41,6 +41,7 @@ console.log("Is the numberStudents greater than or equal to 21?", numberStudents
 // this should log: false
 
 // YOU DO: log the result of the comparison: is numberStudents less than or equal to 20?
+console.log ("Is the numberStudents less than or equal to 20?", numberStudents <= 20)
 // this should log: true
 
 // YOU DO: log the result of the comparison: is numberStudents less than or equal to 21?
