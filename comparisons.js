@@ -60,14 +60,20 @@ console.log("Is numberStudents less than or equal to 21?", numberStudents <= 21)
 
 console.log(4 < 9);
 // YOU DO: Explain.
+Is the number 4 less than the number 9 ?
+this should log: true
 
 var books = 3;
 console.log(4 < books);
+Is the number of books greater than four ?
+this should log: false
 // YOU DO: Explain.
 
 var friends = 6;
 var siblings = 2;
 console.log(friends > siblings);
+Is the number of friends greater than the number of siblings ?
+this should log: true
 // YOU DO: Explain.
 
 var attendees = 9;
