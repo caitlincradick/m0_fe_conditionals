@@ -29,6 +29,7 @@ console.log ("Is numberTeachers equal to stringTeachers?", numberTeachers === st
 // this should log: false
 
 // YOU DO: log the result of the comparison: is numberTeachers not equal to numberStudents?
+console.log("Is numberTeachers not equal to numberStudnets?", numberTeachers !== numberStudents)
 // this should log: true
 
 // YOU DO: log the result of the comparison: is numberStudents greater than or equal to 20?
