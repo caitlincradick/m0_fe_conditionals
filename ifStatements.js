@@ -11,19 +11,19 @@
   // if it is snowy, print "coat"
   // if it is icy, print "yak traks"
 
-var weather = "sunny"
+// var weather = "sunny"
 
-if (weather === "sunny") {
-  console.log("sunscreen");
-} else if (weather === "rainy") {
-  console.log("umbrella");
-} else if (weather === "snowy") {
-  console.log("coat");
-} else if (weather === "icy") {
-  console.log("yak traks");
-} else {
-  console.log("good to go!");
-}
+// if (weather === "sunny") {
+//   console.log("sunscreen");
+// } else if (weather === "rainy") {
+//   console.log("umbrella");
+// } else if (weather === "snowy") {
+//   console.log("coat");
+// } else if (weather === "icy") {
+//   console.log("yak traks");
+// } else {
+//   console.log("good to go!");
+// }
 
 // Experiment with manipulating the value held in variable 'weather'
 // to print something other than 'coat'
@@ -44,8 +44,16 @@ if (weather === "sunny") {
 
 var numQuarters = 0
 
-console.log("I have enough money for a gumball");
-console.log("I don't have enough money for a gumball");
+// console.log("I have enough money for a gumball");
+// console.log("I don't have enough money for a gumball");
+
+if (numQuarters >= 2) {
+  console.log("I have enough money for a gumball"); 
+} else {
+  console.log("I don't have enought money for a gumball");
+}
+
+
 
 
 // #####################
